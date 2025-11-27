@@ -4,4 +4,9 @@
 -potato £0.55
 -Oregano
 # Instructions
-- put the peas in a pan with boiling water
+- shell the peas.
+- put a pan of cold water on the stove.
+- boil the water.
+- add the peas. 
+- boil for 3 minutes.
+
