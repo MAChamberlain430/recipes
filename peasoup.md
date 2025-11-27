@@ -4,4 +4,4 @@
 -potato £0.55
 -Oregano
 # Instructions
-
+- put the peas in a pan with boiling water
