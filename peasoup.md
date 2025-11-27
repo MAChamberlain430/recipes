@@ -8,4 +8,10 @@
 - boil for 4 minutes
 - brown the onions.
 - boil the potatoes for 20 minutes
+- shell the peas.
+- put a pan of cold water on the stove.
+- boil the water.
+- add the peas. 
+- boil for 3 minutes.
+
 
