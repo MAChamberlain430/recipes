@@ -5,3 +5,7 @@
 -Oregano
 # Instructions
 - put the peas in a pan with boiling water
+- boil for 4 minutes
+- brown the onions.
+- boil the potatoes for 20 minutes
+
